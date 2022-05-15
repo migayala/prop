@@ -6,23 +6,23 @@ function App() {
     <div className="App">
       <PersonCard 
       name={"Doe, Jane"}
-      age={"Age: 45"}
-      hairColor={"Hair Color: Black"}
+      age={45}
+      hairColor={"Black"}
       />
       <PersonCard 
       name={"Smith, John"}
-      age={"Age: 88"}
-      hairColor={"Hair Color: Brown"}
+      age={88}
+      hairColor={"Brown"}
       />
       <PersonCard 
       name={"Fillmore, Millard"}
-      age={"Age: 50"}
-      hairColor={"Hair Color: Brown"}
+      age={50}
+      hairColor={"Brown"}
       />
       <PersonCard 
       name={"Smith, Maria"}
-      age={"Age: 62"}
-      hairColor={"Hair Color: Brown"}
+      age={62}
+      hairColor={"Brown"}
       />
     </div>
     

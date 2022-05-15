@@ -3,8 +3,8 @@ const PersonCard = (props) => {
     return(
         <div>
             <h1> {props.name} </h1>
-            <p> {props.age} </p>
-            <p> {props.hairColor} </p>
+            <p> Age: {props.age} </p>
+            <p> Hair Color: {props.hairColor} </p>
         </div>
     );
 }
